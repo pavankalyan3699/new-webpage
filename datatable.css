@@ -1,0 +1,167 @@
+/* Reset margins and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container styling */
+.main {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(./IMAGES/shivaji-maharaj-background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* Navbar styling */
+.navbar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon {
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo {
+    color: #e56f0f;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 5px;
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    margin-right: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #ff7200;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover {
+    color: #ff7200;
+}
+/* Search bar styling */
+.search {
+    width:240px; /* Increased width to fit both input and button */
+    float: right;
+    margin-left: 160px;
+    display: flex; /* Use flex to align input and button side-by-side */
+}
+
+.srch {
+    font-family: 'Segoe MDL2 Assets', sans-serif;
+    width: 260px; /* Adjust width to fit better */
+    height: 40px;
+    background: transparent;
+    border: 1px solid #ff7200;
+    margin-top: 13px;
+    color:#ff7200;
+    border-right: none;
+    font-size: 16px;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.srch::placeholder {
+    color: #f1f1f1b0; /* Placeholder text color white */
+}
+
+
+.btn {
+    width: 90px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #ff7200;
+    font-size: 15px;
+    padding: 10px;
+    border-bottom-right-radius: 5px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: #000000;
+}
+
+.btn:focus,
+.srch:focus {
+    outline: none;
+}
+
+.content {
+    text-align: center;
+    padding: 100px;
+}
+
+
+/* Hover effect styles for the navbar */
+.hover-section {
+    position: relative;
+    display: inline-block; /* Ensure the dropdown is relative to the link */
+}
+
+/* Dropdown options styling */
+.options {
+    display: none; /* Hidden by default */
+    position: absolute;
+    top: 100%; /* Position it directly below the EVENTS link */
+    left: 50%;
+    transform: translateX(-50%); /* Center the dropdown */
+    border-radius: 8px;
+    padding: 10px;
+    z-index: 1000; /* Ensure it appears above other content */
+    width: 200px; /* Adjust width to fit buttons */
+}
+
+/* Show options on hover */
+.hover-section:hover .options {
+    display: block;
+}
+
+/* Style for each dropdown link as a button */
+
+    /* Style for each dropdown button */
+.event-option {
+        display: block; /* Make sure each option takes up a full line */
+        background-color:#e37608;
+        color: white; /* Default text color */
+        border: 2px solid #e37608; /* Border color */
+        padding: 10px;
+        margin: 5px 0; /* Margin between buttons */
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: bold;
+        transition: background-color 0.3s ease, color 0.3s ease;
+        text-align: center; /* Center text inside button */
+        width: 100%; /* Make buttons fill the width of the container */
+    }
