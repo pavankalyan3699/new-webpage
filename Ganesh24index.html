@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Members Profile - SHIVAJI MAHARAJ YOUTH ASSOCIATION</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="./script.js"></script>
+</head>
+<body>
+
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <img src="./IMAGES/logo.png" alt="Icon" style="width: 120px; height: 240px; vertical-align: top; margin-right: 8px; position: relative; top: -60px;">
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="./index1.html">HOME</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="./memberspage.html">MEMBERS&#160;PROFILE</a></li>
+                    <li class="hover-section">
+                        <a href="./Eventpage.html">EVENTS</a>
+                        <div class="options">
+                            <a href="#" class="event-option">GANESH&#160;CHATURTHI'24</a>
+                            <a href="#" class="event-option">GANESH&#160;CHATURTHI'23</a>
+                            <a href="#" class="event-option">GANESH&#160;CHATURTHI'22</a>
+                        </div>
+                    </li>
+                    <li><a href="#">GALLERY</a></li>
+                    <li><a href="#">CONTACT</a></li>
+                </ul>
+            </div>
+            <div class="search">
+                <input class="srch" type="search" placeholder="search here">
+                <a href="#"><button class="btn">Go</button></a>
+            </div>
+        </div>
+
+        <!-- Container for the JSON data table -->
+        <div class="table-container">
+            <h2 style="text-align: center;">EXPENSE OF THE EVENT 2024</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>SI.No</th>
+                        <th>Date</th>
+                        <th>Purpose</th>
+                        <th>Amount</th>
+                        <th>Bills</th>
+                    </tr>
+                </thead>
+                <tbody id="data-output">
+                    <!-- Data will be inserted here by JavaScript -->
+                    
+                </tbody>
+            </table>
+        </div>
+
+        <div style="position: fixed; color:orange; bottom: 10px; left: 50%; transform: translateX(-50%);">
+            &copy; All rights reserved by GUGULOTH PAVAN KALYAN - 2024
+        </div>
+    </div>
+</body>
+</html>

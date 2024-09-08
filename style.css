@@ -1,0 +1,215 @@
+/* Reset margins and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container styling */
+.main {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 50%), url(./IMAGES/shivaji-maharaj-background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* Navbar styling */
+.navbar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon {
+    width: 150px;
+    float: left;
+    height: 70px;
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    margin-right: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #ff7200;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover {
+    color: #ff7200;
+}
+
+/* Search bar styling */
+.search {
+    width: 240px;
+    float: right;
+    margin-left: 160px;
+    display: flex;
+}
+
+.srch {
+    font-family: 'Segoe MDL2 Assets', sans-serif;
+    width: 260px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    border-right: none;
+    font-size: 16px;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.srch::placeholder {
+    color: #f1f1f1b0;
+}
+
+.btn {
+    width: 90px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    padding: 10px;
+    border-bottom-right-radius: 5px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: #000000;
+}
+
+.btn:focus,
+.srch:focus {
+    outline: none;
+}
+
+/* Hover effect for dropdown */
+.hover-section {
+    position: relative;
+    display: inline-block;
+}
+
+.options {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 8px;
+    padding: 10px;
+    z-index: 1000;
+    width: 200px;
+}
+
+.hover-section:hover .options {
+    display: block;
+}
+
+.event-option {
+    display: block;
+    background-color: #e37608;
+    color: white;
+    border: 2px solid #e37608;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    text-align: center;
+    width: 100%;
+}
+
+/* Table styling */
+.table-container {
+    width: 90%;
+    margin: 20px auto;
+    overflow-x: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 50px auto;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+
+td {
+    background-color: #f9f9f9;
+}
+
+.view-bill {
+    cursor: pointer;
+    color: #4CAF50;
+    font-size: 18px;
+}
+
+/* Responsive table for mobile */
+@media (max-width: 600px) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+
+    th {
+        display: none;
+    }
+
+    td {
+        display: block;
+        position: relative;
+        padding-left: 50%;
+        text-align: left;
+    }
+
+    td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        width: 45%;
+        padding-right: 15px;
+        white-space: nowrap;
+        font-weight: bold;
+    }
+}
