@@ -1,32 +1,23 @@
 {
-    "Form Responses 1": [
-        {
-            "SI_No": 1,
-            "Date": "09/06/2024",
-            "Purpose": "F full fh",
-            "Amount": 50,
-            "BillURL": "https://drive.google.com/open?id=12hLlmLJg8A-anmq9619qywLbnE8pjRRZ"
-        },
-        {
-            "SI_No": 2,
-            "Date": "09/06/2024",
-            "Purpose": "FB kg time",
-            "Amount": 577,
-            "BillURL": "https://drive.google.com/open?id=1ImgmiIXeOdGpi0gq6Ahv773fRh0wPjtc"
-        },
-        {
-            "SI_No": 3,
-            "Date": "09/07/2024",
-            "Purpose": "Top",
-            "Amount": 67,
-            "BillURL": "https://drive.google.com/open?id=1OKlDDHr3XpSgAxlhTITVFxzIfOdi7KMd"
-        },
-        {
-            "SI_No": 4,
-            "Date": "09/07/2024",
-            "Purpose": "H KLG fi",
-            "Amount": 6778,
-            "BillURL": "https://drive.google.com/open?id=1BjhUEQDji7Xdh8QV3Qt1zLmoPWKGIfvG"
-        }
-    ]
+"Form Responses 1":[
+ {
+  "Timestamp": "9\/7\/2024 23:43:12",
+  "SI.No ": 1,
+  "Date": "09\/05\/2024",
+  "Purpose": "Ganesh Vigraham Booking Advance ",
+  "Amount": 2000,
+  "Paid by": "M Thirupathi ",
+  "Bills": "https:\/\/drive.google.com\/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
+ },
+ {
+  "Timestamp": "9\/7\/2024 23:45:46",
+  "SI.No ": 2,
+  "Date": "09\/07\/2024",
+  "Purpose": "Ganesh Vigraham (Idol) Booking balance Amount",
+  "Amount": 3500,
+  "Paid by": "M Thirupathi ",
+  "Bills": "https:\/\/drive.google.com\/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
+  
+ }
+]
 }
