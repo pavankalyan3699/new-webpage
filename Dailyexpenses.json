@@ -1,19 +1,19 @@
 {
   "Form Responses 1": [
     {
-      "SI No": 1,
+      "SI.No": 1,
       "Date": "09/05/2024",
       "Purpose": "Ganesh Vigraham Booking Advance",
       "Amount": 2000,
-      "Paid By": "M Thirupathi",
+      "Paid by": "M Thirupathi",
       "Bills": "https://drive.google.com/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
     },
     {
-      "SI No": 2,
+      "SI.No": 2,
       "Date": "09/07/2024",
       "Purpose": "Ganesh Vigraham (Idol) Booking balance Amount",
       "Amount": 3500,
-      "Paid By": "M Thirupathi",
+      "Paid by": "M Thirupathi",
       "Bills": "https://drive.google.com/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
     }
   ]
