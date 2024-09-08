@@ -16,6 +16,7 @@ fetch("Dailyexpenses.json")
                     <td>${expense.Date}</td>
                     <td>${expense.Purpose}</td>
                     <td>${expense.Amount}</td>
+                    <td>${expense.Paid By}</td>
                     <td><a href="${expense.BillURL}" target="_blank">View Bill</a></td>
                 </tr>
             `;
