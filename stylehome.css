@@ -41,10 +41,10 @@ body {
 /* Icon container styling */
 .icon {
     position: absolute;
-    top: -28px;
+    top: -25px;
     left: 20px;
-    width: 60px; /* Adjust width as needed */
-    height: 120px; /* Adjust height as needed */
+    width: 76px; /* Adjust width as needed */
+    height: 115px; /* Adjust height as needed */
     border-radius: 50%;
     overflow: hidden;
     background-color: ; /* Background color to ensure circle visibility */
