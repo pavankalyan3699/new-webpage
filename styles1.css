@@ -13,7 +13,11 @@
 .main {
     min-height: 100vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: column
+    background-image: url('./IMAGES/shivaji-maharaj-background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /* Navbar styling */
