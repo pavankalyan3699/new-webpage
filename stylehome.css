@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Marck+Script&family=Roboto:ital,wght@0,400;1,900&display=swap');
+
+/* Reset margins and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Ensure body takes full height */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Main container styling */
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.main {
+    flex: 1;
+    background: url(https://wallpapers.com/images/hd/chhatrapati-shivaji-maharaj-silhouette-7bkd01iujrqyr8tl.jpg) no-repeat center center;
+    background-size: cover;
+    position: relative;
+}
+
+/* Navbar styling */
+.navbar {
+    width: 100%;
+    background-color: #ff7200; /* Thick orange background */
+    height: 75px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    position: relative; /* Ensure position relative for absolute positioning of children */
+}
+
+/* Icon container styling */
+.icon {
+    position: absolute;
+    top: -28px;
+    left: 20px;
+    width: 60px; /* Adjust width as needed */
+    height: 120px; /* Adjust height as needed */
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: ; /* Background color to ensure circle visibility */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Logo image styling */
+.icon img {
+    width: 100%; /* Ensure image fits the container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Menu styling */
+.menu {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    height: 100%;
+}
+
+ul li {
+    margin: 0 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover {
+    color: #ff7200;
+}
+
+/* Content section styling */
+.content {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    color: yellow;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.content .par {
+    font-size: 20px;
+    padding: 20px;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-family: 'Marck Script', cursive;
+    color: #fff;
+}
+
+.content span {
+    font-family: 'Times New Roman';
+    font-size: 38px;
+    margin-top: 30px;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.content .cn {
+    width: 160px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+
+.content .cn a {
+    text-decoration: none;
+    color: #ffffff;
+    transition: .3s ease;
+}
+
+/* Hover effect styles for the navbar */
+.hover-section {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown options styling */
+.options {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 8px;
+    padding: 10px;
+    z-index: 1000;
+    width: 200px;
+}
+
+.hover-section:hover .options {
+    display: block;
+}
+
+.event-option {
+    display: block;
+    background-color:#e37608;
+    color: white;
+    border: 2px solid #e37608;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    text-align: center;
+    width: 100%;
+}
+
+/* Footer styling */
+.footer {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: #ff7200; /* Background color for footer */
+}
