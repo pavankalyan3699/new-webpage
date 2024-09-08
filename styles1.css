@@ -194,11 +194,12 @@ ul li a:hover {
     font-size: 18px;
     padding-left: 20px;
     padding-bottom: 25px;
-    font-family:'Segoe Print';
     letter-spacing: 1.2px;
     line-height: 30px;
+    font-family: 'Marck Script', cursive;
+    font-weight: 400;
+    font-style: normal;
     color: #fff;
-    font-weight: bold;
 }
 
 .content h1 {
