@@ -12,12 +12,12 @@ fetch("Dailyexpenses.json")
         data["Form Responses 1"].forEach(expense => {
             out += `
                 <tr>
-                    <td>${expense.SI_No}</td>
+                    <td>${expense["SI.No"]}</td>
                     <td>${expense.Date}</td>
                     <td>${expense.Purpose}</td>
                     <td>${expense.Amount}</td>
-                    <td>${expense.Paid By}</td>
-                    <td><a href="${expense.BillURL}" target="_blank">View Bill</a></td>
+                    <td>${expense["Paid by"]}</td>
+                    <td><a href="${expense.Bills}" target="_blank">View Bill</a></td>
                 </tr>
             `;
         });
