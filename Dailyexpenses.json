@@ -149,12 +149,12 @@
       "SI.No": 17,
       "Date": "08/09/2024",
       "Purpose": "Bulbs(3)",
-      "Amount": 100,
+      "Amount": 300,
       "Paid By": "M Vijay",
       "Bills": "#"
     },
     {
-      "Timestamp": "10/09/2024 22:48",
+      "Timestamp": "08/09/2024 22:48",
       "SI.No": "1-17",
       "Date": "09/09/2024",
       "Purpose": "TOTAL AMOUNT",
@@ -162,7 +162,5 @@
       "Paid By": "PavanKalyan",
       "Bills": "#"
     }
-   ]
+  ]
 }
-
-
