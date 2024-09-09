@@ -159,3 +159,99 @@ ul li a:hover {
     text-align: center; /* Center text inside button */
     width: 100%; /* Make buttons fill the width of the container */
 }
+/* Mobile-first styling for smaller screens */
+@media (max-width: 600px) {
+    .icon {
+        width: 100px; /* Adjusted for smaller screens */
+        height: 100px; /* Adjusted for smaller screens */
+    }
+
+    .navbar {
+        flex-direction: column; /* Stack navbar items vertically */
+        align-items: flex-start; /* Align items to the start */
+        padding: 10px; /* Reduced padding */
+    }
+
+    .menu ul {
+        flex-direction: column; /* Stack menu items vertically */
+        align-items: flex-start; /* Align items to the start */
+    }
+
+    .menu ul li {
+        margin: 10px 0; /* Reduced margin between menu items */
+    }
+
+    .content {
+        padding: 10px; /* Reduced padding */
+    }
+
+    .content h1 {
+        font-size: 24px; /* Smaller font size for h1 */
+    }
+
+    .content .par {
+        font-size: 16px; /* Smaller font size for paragraphs */
+    }
+
+    .content .cn {
+        width: 140px; /* Adjust button width for smaller screens */
+        height: 35px; /* Adjust button height for smaller screens */
+        font-size: 16px; /* Smaller font size for button text */
+    }
+    
+    .footer {
+        font-size: 14px; /* Adjust footer font size */
+    }
+
+    /* Adjust marquee text size */
+    marquee {
+        font-size: 18px;
+    }
+}
+
+/* For tablets and small desktops */
+@media (min-width: 601px) and (max-width: 992px) {
+    .icon {
+        width: 120px; /* Adjusted size for tablets */
+        height: 120px; /* Adjusted size for tablets */
+    }
+
+    .navbar {
+        padding: 20px; /* Normal padding */
+    }
+
+    .menu ul {
+        flex-direction: row; /* Horizontal layout for menu items */
+    }
+
+    .menu ul li {
+        margin: 0 15px; /* Adjusted margin for menu items */
+    }
+
+    .content {
+        padding: 20px; /* Normal padding */
+    }
+
+    .content h1 {
+        font-size: 28px; /* Adjusted font size for h1 */
+    }
+
+    .content .par {
+        font-size: 18px; /* Adjusted font size for paragraphs */
+    }
+
+    .content .cn {
+        width: 160px; /* Normal button width */
+        height: 40px; /* Normal button height */
+        font-size: 18px; /* Normal font size for button text */
+    }
+    
+    .footer {
+        font-size: 16px; /* Normal footer font size */
+    }
+
+    /* Adjust marquee text size */
+    marquee {
+        font-size: 22px;
+    }
+}
