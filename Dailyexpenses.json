@@ -1,154 +1,130 @@
 {
-  "Form Responses 1": [
+  "Form Responses 1":[
     {
-      "Timestamp": "9/7/2024 23:43:12",
+      "Timestamp": "9\/7\/2024 23:43:12",
       "SI.No": 1,
-      "Date": "05/09/2024",
+      "Date": "05\/09\/2024",
       "Purpose": "Ganesh Vigraham Booking (Advance)",
       "Amount": 2000,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
+      "Bills": "https:\/\/drive.google.com\/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
     },
     {
-      "Timestamp": "9/7/2024 23:45:46",
+      "Timestamp": "9\/7\/2024 23:45:46",
       "SI.No": 2,
-      "Date": "07/09/2024",
+      "Date": "07\/09\/2024",
       "Purpose": "Ganesh Vigraham (Idol) Booking balance Amount",
       "Amount": 3500,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
+      "Bills": "https:\/\/drive.google.com\/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
     },
     {
-      "Timestamp": "09/09/2024 03:09",
+      "Timestamp": "09\/09\/2024 03:09",
       "SI.No": 3,
-      "Date": "07/09/2024",
+      "Date": "07\/09\/2024",
       "Purpose": "Pooja Materials Kit",
       "Amount": 810,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1DlICJRekH6kQc8Csd6SHNPzejiy8jTxd"
+      "Bills": "https:\/\/drive.google.com\/open?id=1DlICJRekH6kQc8Csd6SHNPzejiy8jTxd"
     },
     {
-      "Timestamp": "09/09/2024 03:11",
+      "Timestamp": "09\/09\/2024 03:11",
       "SI.No": 4,
-      "Date": "07/09/2024",
+      "Date": "07\/09\/2024",
       "Purpose": "Vinayaka Laddu 5Kg",
       "Amount": 900,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1cPkw88wASVJeGTg0JUhmPmVGaw90d1rA"
+      "Bills": "https:\/\/drive.google.com\/open?id=1cPkw88wASVJeGTg0JUhmPmVGaw90d1rA"
     },
     {
-      "Timestamp": "09/09/2024 03:13",
+      "Timestamp": "09\/09\/2024 03:13",
       "SI.No": 5,
-      "Date": "07/09/2024",
+      "Date": "07\/09\/2024",
       "Purpose": "Flags",
       "Amount": 200,
       "Paid By": "M Vijay",
-      "Bills": "https://drive.google.com/open?id=1KkfVy3o562zsR51srfuvtnE-FbGZs4wT"
+      "Bills": "https:\/\/drive.google.com\/open?id=1KkfVy3o562zsR51srfuvtnE-FbGZs4wT"
     },
-    {
-      "Timestamp": "09/09/2024 12:23",
+     {
+      "Timestamp": "09\/09\/2024 12:23",
       "SI.No": 6,
-      "Date": "07/09/2024",
+      "Date": "07\/09\/2024",
       "Purpose": "Electricals",
       "Amount": 500,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1NyvrOZcLW4kdFhGdfX1gdK9b2StEgWOt"
+      "Bills": "https:\/\/drive.google.com\/open?id=1NyvrOZcLW4kdFhGdfX1gdK9b2StEgWOt"
     },
-    {
-      "Timestamp": "09/09/2024 12:25",
+     {
+      "Timestamp": "09\/09\/2024 12:25",
       "SI.No": 7,
-      "Date": "07/09/2024",
+      "Date": "07\/09\/2024",
       "Purpose": "Fruits & Thumsup",
       "Amount": 210,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1xDaeX8qC3gjhxX69UHlyiUML9CoxnasE"
+      "Bills": "https:\/\/drive.google.com\/open?id=1xDaeX8qC3gjhxX69UHlyiUML9CoxnasE"
     },
     {
-      "Timestamp": "09/09/2024 22:01",
+      "Timestamp": "09\/09\/2024 22:01",
       "SI.No": 8,
-      "Date": "07/09/2024",
+      "Date": "07\/09\/2024",
       "Purpose": "Ayyagaru Poojari (Advance)",
       "Amount": 2000,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1G2i5XyoEFPlF0-mkoEfh3NsTRArzSL1i"
+      "Bills": "https:\/\/drive.google.com\/open?id=1G2i5XyoEFPlF0-mkoEfh3NsTRArzSL1i"
     },
     {
-      "Timestamp": "09/09/2024 22:03",
+      "Timestamp": "09\/09\/2024 22:03",
       "SI.No": 9,
-      "Date": "08/09/2024",
+      "Date": "08\/09\/2024",
       "Purpose": "Coconuts (4)",
       "Amount": 100,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1onLt2bWinVmuC7NBV4OMkN4F3UXJGmJ4"
+      "Bills": "https:\/\/drive.google.com\/open?id=1onLt2bWinVmuC7NBV4OMkN4F3UXJGmJ4"
     },
     {
-      "Timestamp": "09/09/2024 22:06",
+      "Timestamp": "09\/09\/2024 22:06",
       "SI.No": 10,
-      "Date": "08/09/2024",
+      "Date": "08\/09\/2024",
       "Purpose": "Sound Speakers Repair",
       "Amount": 1450,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1ACJ0hnNNluErM3nrn1O2R40QtGSs1aix"
+      "Bills": "https:\/\/drive.google.com\/open?id=1ACJ0hnNNluErM3nrn1O2R40QtGSs1aix"
     },
     {
-      "Timestamp": "09/09/2024 22:12",
+      "Timestamp": "09\/09\/2024 22:12",
       "SI.No": 11,
-      "Date": "08/09/2024",
+      "Date": "08\/09\/2024",
       "Purpose": "Deepam Oil",
       "Amount": 140,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1cQWx_exSwjlMs0zs2SRK5KwaPN5-GkF1"
+      "Bills": "https:\/\/drive.google.com\/open?id=1cQWx_exSwjlMs0zs2SRK5KwaPN5-GkF1"
     },
     {
-      "Timestamp": "09/09/2024 22:43",
+      "Timestamp": "09\/09\/2024 22:43",
       "SI.No": 12,
-      "Date": "08/09/2024",
-      "Purpose": "Petrol and Diesel",
+      "Date": "08\/09\/2024",
+      "Purpose": "Petrol and Disel",
       "Amount": 500,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1IhKpKa_SYWQytGxr_7MIx6UX7amrBjwf"
+      "Bills": "https:\/\/drive.google.com\/open?id=1IhKpKa_SYWQytGxr_7MIx6UX7amrBjwf"
     },
     {
-      "Timestamp": "09/09/2024 22:48",
+      "Timestamp": "09\/09\/2024 22:48",
       "SI.No": 13,
-      "Date": "08/09/2024",
+      "Date": "08\/09\/2024",
       "Purpose": "LED Bulbs",
       "Amount": 200,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1hLmC4Yi8jkOk2bpx8rEmBssXdJtUqIFp"
+      "Bills": "https:\/\/drive.google.com\/open?id=1hLmC4Yi8jkOk2bpx8rEmBssXdJtUqIFp"
     },
     {
-      "Timestamp": "08/09/2024 22:48",
+      "Timestamp": "08\/09\/2024 22:48",
       "SI.No": 14,
-      "Date": "08/09/2024",
+      "Date": "08\/09\/2024",
       "Purpose": "Speaker Wire +Plug",
       "Amount": 110,
       "Paid By": "M Thirupathi",
-      "Bills": "https://drive.google.com/open?id=1Y6ipD-WbU04pHAD_UKJ08hhmvlS_1n4g"
-    },
-"Timestamp": "08/09/2024 22:48",
-      "SI.No": 15,
-      "Date": "07/09/2024",
-      "Purpose": "Tractor Diesel-Idol ",
-      "Amount": 500,
-      "Paid By": "M Vijay",
-      "Bills": "#"
-    },
-"Timestamp": "08/09/2024 22:48",
-      "SI.No": 16,
-      "Date": "08/09/2024",
-      "Purpose": "Decoration Pins",
-      "Amount": 80,
-      "Paid By": "M Vijay",
-      "Bills": "#"
-    },
-"Timestamp": "08/09/2024 22:48",
-      "SI.No": 17,
-      "Date": "08/09/2024",
-      "Purpose": "Bulbs(3)",
-      "Amount": 300,
-      "Paid By": "M Vijay",
-      "Bills": "#"
+      "Bills": "https:\/\/drive.google.com\/open?id=1Y6ipD-WbU04pHAD_UKJ08hhmvlS_1n4g"
     }
   ]
 }
