@@ -1,12 +1,11 @@
-{
-"Form Responses 1":[
+{ "Form Responses 1":[
  {
   "Timestamp": "9\/7\/2024 23:43:12",
   "SI.No ": 1,
   "Date": "05\/09\/2024",
   "Purpose": "Ganesh Vigraham Booking Advance ",
   "Amount": 2000,
-  "Paid by": "M Thirupathi ",
+  "Paid By": "M Thirupathi ",
   "Bills": "https:\/\/drive.google.com\/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
  },
  {
@@ -15,7 +14,7 @@
   "Date": "07\/09/2024",
   "Purpose": "Ganesh Vigraham (Idol) Booking balance Amount",
   "Amount": 3500,
-  "Paid by": "M Thirupathi ",
+  "Paid By": "M Thirupathi ",
   "Bills": "https:\/\/drive.google.com\/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
 {
   "Timestamp": "09\/09\/2024 03:09",
@@ -23,7 +22,7 @@
   "Date": "07\/09\/2024",
   "Purpose": "Pooja Materials Kit",
   "Amount": 810,
-  "Paid by": "M Thirupathi",
+  "Paid By": "M Thirupathi",
   "Bills": "https:\/\/drive.google.com\/open?id=1DlICJRekH6kQc8Csd6SHNPzejiy8jTxd"
  },
  {
@@ -32,7 +31,7 @@
   "Date": "07\/09\/2024",
   "Purpose": "Vinayaka Laddu 5Kg",
   "Amount": 900,
-  "Paid by": "M Thirupathi",
+  "Paid By": "M Thirupathi",
   "Bills": "https:\/\/drive.google.com\/open?id=1cPkw88wASVJeGTg0JUhmPmVGaw90d1rA"
  },
  {
@@ -41,7 +40,7 @@
   "Date": "07\/09\/2024",
   "Purpose": "Flags",
   "Amount": 200,
-  "Paid by": "M Vijay",
+  "Paid By": "M Vijay",
   "Bills": "https:\/\/drive.google.com\/open?id=1KkfVy3o562zsR51srfuvtnE-FbGZs4wT"
  }
 ]
