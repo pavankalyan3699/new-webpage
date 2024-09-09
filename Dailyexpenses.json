@@ -44,6 +44,24 @@
       "Amount": 200,
       "Paid By": "M Vijay",
       "Bills": "https:\/\/drive.google.com\/open?id=1KkfVy3o562zsR51srfuvtnE-FbGZs4wT"
+    },
+     {
+      "Timestamp": "09\/09\/2024 12:23",
+      "SI.No": 6,
+      "Date": "09\/09\/2024",
+      "Purpose": "Electricals",
+      "Amount": 500,
+      "Paid By": "M Thirupathi",
+      "Bills": "https:\/\/drive.google.com\/open?id=1NyvrOZcLW4kdFhGdfX1gdK9b2StEgWOt"
+    },
+     {
+      "Timestamp": "09\/09\/2024 12:25",
+      "SI.No": 7,
+      "Date": "09\/09\/2024",
+      "Purpose": "Fruits & Thumsup",
+      "Amount": 210,
+      "Paid By": "M Thirupathi",
+      "Bills": "https:\/\/drive.google.com\/open?id=1xDaeX8qC3gjhxX69UHlyiUML9CoxnasE"
     }
   ]
 }
