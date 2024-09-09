@@ -13,7 +13,7 @@
       "Timestamp": "9/7/2024 23:45:46",
       "SI.No": 2,
       "Date": "07/09/2024",
-      "Purpose": "Ganesh Vigraham Booking balance Amount",
+      "Purpose": "Ganesh Vigraham (Idol) Booking balance Amount",
       "Amount": 3500,
       "Paid By": "M Thirupathi",
       "Bills": "https://drive.google.com/open?id=1yIMR3y0kuq4YfnHOCVMfWDx1J4QJmyRB"
@@ -149,19 +149,20 @@
       "SI.No": 17,
       "Date": "08/09/2024",
       "Purpose": "Bulbs(3)",
-      "Amount": 300,
+      "Amount": 100,
       "Paid By": "M Vijay",
       "Bills": "#"
     },
-     {
+    {
       "Timestamp": "",
       "SI.No": "1-17",
       "Date": "",
       "Purpose": "TOTAL AMOUNT",
       "Amount": 13,500,
       "Paid By": "",
-      "Bills": ""
+      "Bills": "#"
     }
   ]
 }
+
 
