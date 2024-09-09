@@ -152,11 +152,17 @@
       "Amount": 300,
       "Paid By": "M Vijay",
       "Bills": "#"
+    },
+     {
+      "Timestamp": "",
+      "SI.No": "1-17",
+      "Date": "",
+      "Purpose": "TOTAL AMOUNT",
+      "Amount": 13,500,
+      "Paid By": "",
+      "Bills": ""
     }
   ]
-   {
-     "Total": {
-     "Amount": 4730
-   }
-   }
+}
+  ]
 }
