@@ -15,7 +15,12 @@
     background-size: cover;
     height: 100vh;
 }
-
+.html, body {
+    height: 100%; /* Ensure body and html cover the full viewport */
+    margin: 0; /* Reset margin */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    font-family: Arial, sans-serif;
+}
 /* Navbar styling */
 .navbar {
     width: 1200px;
