@@ -16,7 +16,7 @@
     background-position: center;
     background-size: cover;
     height: 100%;
-    
+    overflow: hidden; /* Add this line to remove the right side and bottom color */
 }
 .html, body {
     height: 100%; /* Ensure body and html cover the full viewport */
@@ -151,7 +151,7 @@ ul li a:hover {
     border-color: #ff7200;
     font-family: "Protest Guerrilla", sans-serif; /* Added fallback cursive font */
     font-size: 35px;
-    color: rgb(0, 0, 0);
+    color: rgb(0,  0, 0);
     background-color: #ddd;
     background-clip:border-box;
 }
