@@ -201,7 +201,7 @@
     {
         "Timestamp": "09\/10\/2024 14:04:33",
         "SI.No": 24,
-        "Date": "09\/10\/2024",
+        "Date": "10\/09\/2024",
         "Purpose": "Agarbathulu",
         "Amount": 140,
         "Paid By": "M Thirupathi",
@@ -210,7 +210,7 @@
     {
         "Timestamp": "09\/10\/2024 14:05:43",
         "SI.No": 25,
-        "Date": "09\/10\/2024",
+        "Date": "10\/09\/2024",
         "Purpose": "Depam Oil",
         "Amount": 160,
         "Paid By": "M Thirupathi",
@@ -219,7 +219,7 @@
     {
         "Timestamp": "09\/10\/2024 14:07:05",
         "SI.No": 26,
-        "Date": "09\/10\/2024",
+        "Date": "10\/09\/2024",
         "Purpose": "New Mic Mouth",
         "Amount": 500,
         "Paid By": "M Thirupathi",
@@ -228,16 +228,16 @@
     {
         "Timestamp": "09\/10\/2024 14:08:01",
         "SI.No": 27,
-        "Date": "09\/10\/2024",
+        "Date": "10\/09\/2024",
         "Purpose": "Flowers Half Kg",
         "Amount": 100,
         "Paid By": "M Thirupathi",
         "Bills": "https:\/\/drive.google.com\/open?id=1Acw3j-E22ehIgIxTxv3HufGzfKVPQYUO"
     },
     {
-      "Timestamp": "09\/09\/2024 23:48",
+      "Timestamp": "0\/09\/2024 23:48",
       "SI.No": 28,
-      "Date": "09\/09\/2024",
+      "Date": "10\/09\/2024",
       "Purpose": "TOTAL  AMOUNT(1-27)",
       "Amount": 15220,
       "Paid By": "PAVAN",
