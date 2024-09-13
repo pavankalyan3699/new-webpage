@@ -235,13 +235,40 @@
         "Bills": "https:\/\/drive.google.com\/open?id=1Acw3j-E22ehIgIxTxv3HufGzfKVPQYUO"
     },
     {
-      "Timestamp": "0\/09\/2024 23:48",
+      "Timestamp": "09\/09\/2024 23:48",
       "SI.No": 28,
       "Date": "10\/09\/2024",
       "Purpose": "TOTAL  AMOUNT(1-27)",
       "Amount": 15220,
       "Paid By": "PAVAN",
       "Bills": "#"
+    },
+    {
+        "Timestamp": "13\/10\/2024 14:05:43",
+        "SI.No": 29,
+        "Date": "11\/09\/2024",
+        "Purpose": "Coconuts-10",
+        "Amount": 200,
+        "Paid By": "M Thirupathi",
+        "Bills": "https:\/\/drive.google.com\/open?id=12pb1ASZJnZAVZ5CAtAe0zpZ3bwMfpkdd"
+    },
+    {
+        "Timestamp": "13\/10\/2024 14:05:43",
+        "SI.No": 30,
+        "Date": "11\/09\/2024",
+        "Purpose": "Deepam Oil (2l) and Bathulu",
+        "Amount": 290,
+        "Paid By": "M Thirupathi",
+        "Bills": "https:\/\/drive.google.com\/open?id=12KUO84n1Syd59IHfneblUL0TAPW4Jypj"
+    },
+    {
+        "Timestamp": "13\/10\/2024 14:05:43",
+        "SI.No": 31,
+        "Date": "11\/09\/2024",
+        "Purpose": "Fruits",
+        "Amount": 120,
+        "Paid By": "M Thirupathi",
+        "Bills": "https:\/\/drive.google.com\/open?id=1LJJC1DNzq2KhDeBvPPAbxFqxY3Ax2Bd9"
     }
   ]
 }
