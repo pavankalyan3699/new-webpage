@@ -67,55 +67,6 @@ ul li a {
 ul li a:hover {
     color: #ff7200;
 }
-/* Search bar styling */
-.search {
-    width:240px; /* Increased width to fit both input and button */
-    float: right;
-    margin-left: 160px;
-    display: flex; /* Use flex to align input and button side-by-side */
-}
-
-.srch {
-    font-family: 'Segoe MDL2 Assets', sans-serif;
-    width: 260px; /* Adjust width to fit better */
-    height: 40px;
-    background: transparent;
-    border: 1px solid #ff7200;
-    margin-top: 13px;
-    color: #fff;
-    border-right: none;
-    font-size: 16px;
-    padding: 10px;
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
-}
-.srch::placeholder {
-    color: #f1f1f1b0; /* Placeholder text color white */
-}
-
-
-.btn {
-    width: 90px;
-    height: 40px;
-    background: #ff7200;
-    border: 2px solid #ff7200;
-    margin-top: 13px;
-    color: #fff;
-    font-size: 15px;
-    padding: 10px;
-    border-bottom-right-radius: 5px;
-    transition: 0.2s ease;
-    cursor: pointer;
-}
-
-.btn:hover {
-    color: #000000;
-}
-
-.btn:focus,
-.srch:focus {
-    outline: none;
-}
 
 .content {
     text-align: center;
