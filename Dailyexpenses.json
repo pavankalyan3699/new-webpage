@@ -262,9 +262,63 @@
         "Bills": "https:\/\/drive.google.com\/open?id=1LJJC1DNzq2KhDeBvPPAbxFqxY3Ax2Bd9"
     },
     {
+  "Timestamp": "09\/09\/2024 23:48",
+  "SI.No": 32,
+  "Date": "14\/09\/2024",
+  "Purpose": "Oil 1litre",
+  "Amount": 120,
+  "Paid By": "M Thirupathi",
+  "Bills": "https:\/\/drive.google.com\/open?id=1GfY39uK8VpQkY-VWpUBpA6JEIjaqV7vu"
+},
+{
+  "Timestamp": "09\/09\/2024 23:48",
+  "SI.No": 33,
+  "Date": "14\/09\/2024",
+  "Purpose": "Electrical Extension Box",
+  "Amount": 380,
+  "Paid By": "M Thirupathi",
+  "Bills": "https:\/\/drive.google.com\/open?id=14E6lxjJ4oCFlwBvkVVp2ZQsK5m5TF77c"
+},
+{
+  "Timestamp": "09\/09\/2024 23:48",
+  "SI.No": 34,
+  "Date": "15\/09\/2024",
+  "Purpose": "Bomb Shots",
+  "Amount": 1300,
+  "Paid By": "M Thirupathi",
+  "Bills": "https:\/\/drive.google.com\/open?id=1TnWswsSbKw0qmMwdpI_5lZczhTzgBlWq"
+},
+{
+  "Timestamp": "09\/09\/2024 23:48",
+  "SI.No": 34,
+  "Date": "15\/09\/2024",
+  "Purpose": "Kurtas, Kanduva and Caps (₹500 Cash)",
+  "Amount": 2800,
+  "Paid By": "M Thirupathi",
+  "Bills": "https:\/\/drive.google.com\/open?id=1NuaeCYCIg8uuImBVeZrXP1FLgZGaEEza"
+},
+{
+  "Timestamp": "09\/09\/2024 23:48",
+  "SI.No": 35,
+  "Date": "15\/09\/2024",
+  "Purpose": "Petrol",
+  "Amount": 200,
+  "Paid By": "M Thirupathi",
+  "Bills": "https:\/\/drive.google.com\/open?id=1QUV0lpBw25NTrKPe-Wu4ZQx4wMWNaDm4"
+},
+    {
+  "Timestamp": "09\/16\/2024 01:32:54",
+  "SI.No": 36,
+  "Date": "15\/09\/2024",
+  "Purpose": "Plates, Coconuts and Oil 1L",
+  "Amount": 275,
+  "Paid By": "M Thirupathi",
+  "Bills": "https:\/\/drive.google.com\/open?id=1XBteh5O4zwUtVxKUhpzDB-zSzXvCK4B2"
+},
+ {
       "Timestamp": "09\/09\/2024 23:48",
-      "SI.No": 31,
-      "Date": "13\/09\/2024",
+      "SI.No": 36,
+      "Date": "15\/09\/2024",
       "Purpose": "TOTAL  AMOUNT(1-30)",
       "Amount": 15830,
       "Paid By": "PAVAN",
