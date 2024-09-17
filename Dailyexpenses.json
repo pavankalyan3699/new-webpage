@@ -310,10 +310,73 @@
   "Timestamp": "09\/16\/2024 01:32:54",
   "SI.No": 35,
   "Date": "15\/09\/2024",
-  "Purpose": "Plates, Coconuts and Oil 1L",
+  "Purpose": "Plates, Coconuts and Deepam Oil 1L",
   "Amount": 275,
   "Paid By": "M Thirupathi",
   "Bills": "https:\/\/drive.google.com\/open?id=1XBteh5O4zwUtVxKUhpzDB-zSzXvCK4B2"
+},
+    {
+    "Timestamp": "9\/15\/2024 16:24:56",
+    "SI.No": 36,
+    "Date": "9\/14\/2024",
+    "Purpose": "Cook Oil 1litre",
+    "Amount": 120,
+    "Bills": "https:\/\/drive.google.com\/open?id=1GfY39uK8VpQkY-VWpUBpA6JEIjaqV7vu",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 37,
+    "Date": "9\/14\/2024",
+    "Purpose": "Electrical Extension Box",
+    "Amount": 380,
+    "Bills": "https:\/\/drive.google.com\/open?id=14E6lxjJ4oCFlwBvkVVp2ZQsK5m5TF77c",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:28:09",
+    "SI.No": 38,
+    "Date": "9\/15\/2024",
+    "Purpose": "Bomb Shots",
+    "Amount": 1300,
+    "Bills": "https:\/\/drive.google.com\/open?id=1TnWswsSbKw0qmMwdpI_5lZczhTzgBlWq",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:30:37",
+    "SI.No": 39,
+    "Date": "9\/15\/2024",
+    "Purpose": "Kurtas, Kanduva and Caps (₹500 Cash)",
+    "Amount": 2800,
+    "Bills": "https:\/\/drive.google.com\/open?id=1wVhWL4Z3GRxeSC53jMFZIkeb1fhOdihE",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:32:13",
+    "SI.No": 40,
+    "Date": "9\/15\/2024",
+    "Purpose": "Petrol",
+    "Amount": 200,
+    "Bills": "https:\/\/drive.google.com\/open?id=1QUV0lpBw25NTrKPe-Wu4ZQx4wMWNaDm4",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/16\/2024 1:32:54",
+    "SI.No": 41,
+    "Date": "9\/15\/2024",
+    "Purpose": "Plates, Coconuts and Oil 1L",
+    "Amount": 275,
+    "Bills": "https:\/\/drive.google.com\/open?id=1XBteh5O4zwUtVxKUhpzDB-zSzXvCK4B2",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/16\/2024 1:35:53",
+    "SI.No": 42,
+    "Date": "9\/15\/2024",
+    "Purpose": "Kurtas and Bomb Shots",
+    "Amount": 2850,
+    "Bills": "https:\/\/drive.google.com\/open?id=1NuaeCYCIg8uuImBVeZrXP1FLgZGaEEza",
+    "Paid By": "M Thirupathi"
 },
  {
       "Timestamp": "09\/09\/2024 23:48",
