@@ -26,7 +26,7 @@ body {
 
 .main {
     flex: 1;
-    background: url(https://wallpapers.com/images/hd/chhatrapati-shivaji-maharaj-silhouette-7bkd01iujrqyr8tl.jpg) no-repeat center center;
+    background: url(./IMAGES/shivaji-maharaj-background.jpg) no-repeat center center;
     background-size: cover;
     position: relative;
 }
