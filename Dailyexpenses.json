@@ -264,7 +264,7 @@
    {
   "Timestamp": "09\/09\/2024 23:48",
   "SI.No": 31,
-  "Date": "15\/09\/2024",
+  "Date": "14\/09\/2024",
   "Purpose": "Oil 1litre",
   "Amount": 120,
   "Paid By": "M Thirupathi",
@@ -279,18 +279,28 @@
   "Paid By": "M Thirupathi",
   "Bills": "https:\/\/drive.google.com\/open?id=14E6lxjJ4oCFlwBvkVVp2ZQsK5m5TF77c"
 },
+    
+{
+    "Timestamp": "9\/15\/2024 16:28:09",
+    "SI.No": 33,
+    "Date": "15\/09\/2024",
+    "Purpose": "Bomb Shots(6)",
+    "Amount": 1300,
+    "Bills": "https:\/\/drive.google.com\/open?id=1TnWswsSbKw0qmMwdpI_5lZczhTzgBlWq",
+    "Paid By": "M Thirupathi"
+},
 {
   "Timestamp": "09\/09\/2024 23:48",
-  "SI.No": 33,
+  "SI.No": 34,
   "Date": "15\/09\/2024",
-  "Purpose": "Kurtas, Kanduva and Caps (₹500 Cash)",
+  "Purpose": "Kurtas, Kanduva and Caps",
   "Amount": 2800,
   "Paid By": "M Thirupathi",
   "Bills": "https:\/\/drive.google.com\/open?id=1NuaeCYCIg8uuImBVeZrXP1FLgZGaEEza"
 },
 {
   "Timestamp": "09\/09\/2024 23:48",
-  "SI.No": 34,
+  "SI.No": 35,
   "Date": "15\/09\/2024",
   "Purpose": "Petrol",
   "Amount": 200,
@@ -299,61 +309,97 @@
 },
     {
   "Timestamp": "09\/16\/2024 01:32:54",
-  "SI.No": 35,
+  "SI.No": 36,
   "Date": "15\/09\/2024",
-  "Purpose": "Plates, Coconuts and Deepam Oil 0.5L",
+  "Purpose": "Plates, Coconuts(3) and Deepam Oil 0.5L",
   "Amount": 275,
   "Paid By": "M Thirupathi",
   "Bills": "https:\/\/drive.google.com\/open?id=1XBteh5O4zwUtVxKUhpzDB-zSzXvCK4B2"
 },
+{
+    "Timestamp": "9\/16\/2024 1:32:54",
+    "SI.No": 37,
+    "Date": "16\/09\/2024",
+    "Purpose": "Pulihora Materials and Coconuts (3)",
+    "Amount": 1250,
+    "Bills": "https:\/\/drive.google.com\/open?id=1PLRGiGiysfj4QMdM7YzIiNkyRv3MSoTL",
+    "Paid By": "M Thirupathi"
+}, 
     {
     "Timestamp": "9\/15\/2024 16:24:56",
-    "SI.No": 36,
-    "Date": "14\/09\/2024",
-    "Purpose": "Cook Oil 1litre",
-    "Amount": 120,
-    "Bills": "https:\/\/drive.google.com\/open?id=1GfY39uK8VpQkY-VWpUBpA6JEIjaqV7vu",
+    "SI.No": 38,
+    "Date": "16\/09\/2024",
+    "Purpose": "Petrol,Freedom Oil,Mirchi, Fruits",
+    "Amount": 420,
+    "Bills": "https:\/\/drive.google.com\/open?id=1VxaFn2cV3AzYcF7UM3RVhFlxcD0A7T-P",
     "Paid By": "M Thirupathi"
 },
 {
     "Timestamp": "9\/15\/2024 16:26:22",
-    "SI.No": 37,
-    "Date": "14\/09\/2024",
-    "Purpose": "Electrical Extension Box",
-    "Amount": 380,
-    "Bills": "https:\/\/drive.google.com\/open?id=14E6lxjJ4oCFlwBvkVVp2ZQsK5m5TF77c",
-    "Paid By": "M Thirupathi"
-},
-{
-    "Timestamp": "9\/15\/2024 16:28:09",
-    "SI.No": 38,
-    "Date": "15\/09\/2024",
-    "Purpose": "Bomb Shots(6)",
-    "Amount": 1300,
-    "Bills": "https:\/\/drive.google.com\/open?id=1TnWswsSbKw0qmMwdpI_5lZczhTzgBlWq",
-    "Paid By": "M Thirupathi"
-},
-{
-    "Timestamp": "9\/15\/2024 16:32:13",
     "SI.No": 39,
-    "Date": "15\/09\/2024",
-    "Purpose": "Petrol",
-    "Amount": 200,
-    "Bills": "https:\/\/drive.google.com\/open?id=1QUV0lpBw25NTrKPe-Wu4ZQx4wMWNaDm4",
+    "Date": "16\/09\/2024",
+    "Purpose": "DJ Disel",
+    "Amount": 500,
+    "Bills": "https://drive.google.com/open?id=1T6a8SwSRYoTW6mqn13QF3-rC6Pu8tPAf",
+    "Paid By": "M Thirupathi"
+},
+    {
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 40,
+    "Date": "16\/09\/2024",
+    "Purpose": "DJ",
+    "Amount": 5000,
+    "Bills": "https://drive.google.com/open?id=1tRp5CjPP0C71TJps4X6xHhrCP5rwcFva",
     "Paid By": "M Thirupathi"
 },
 {
-    "Timestamp": "9\/16\/2024 1:32:54",
-    "SI.No": 40,
-    "Date": "15\/09\/2024",
-    "Purpose": "Plates, Coconuts and Oil 0.5L",
-    "Amount": 275,
-    "Bills": "https:\/\/drive.google.com\/open?id=1XBteh5O4zwUtVxKUhpzDB-zSzXvCK4B2",
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 41,
+    "Date": "16\/09\/2024",
+    "Purpose": "Ayyagaru due Amount ",
+    "Amount": 2000,
+    "Bills": "https://drive.google.com/open?id=1MWSH9HTRIqJDNrARiVzukbhfKCRWdPUX",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 42,
+    "Date": "16\/09\/2024",
+    "Purpose": "Flowers from NKD ",
+    "Amount": 50,
+    "Bills": "https://drive.google.com/open?id=133emgC0MxIwLIikdPXjzJ-KMj6iNaJcH",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 43,
+    "Date": "16\/09\/2024",
+    "Purpose": "Bike Petrol",
+    "Amount": 160,
+    "Bills": "https://drive.google.com/open?id=1O7r6Q3_DQZ72bHE5bcRmpzYUPby4r3ne",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 44,
+    "Date": "16\/09\/2024",
+    "Purpose": "Tractor Disel(Bunny-1, Jollu-2lit)",
+    "Amount": 300,
+    "Bills": "https://drive.google.com/open?id=1ilKmepdf_0MtmKpZHlPGiK14Z7FkRn5a",
+    "Paid By": "M Thirupathi"
+},
+{
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 45,
+    "Date": "16\/09\/2024",
+    "Purpose": "Nimarjanam Day Treat",
+    "Amount": 1520,
+    "Bills": "https://drive.google.com/open?id=1OUmMT1ofUmXdpk9o0-eZmzxZOhqYD64C",
     "Paid By": "M Thirupathi"
 },
  {
       "Timestamp": "09\/09\/2024 23:48",
-      "SI.No": 36,
+      "SI.No": 40,
       "Date": "15\/09\/2024",
       "Purpose": "TOTAL  AMOUNT(1-35)",
       "Amount": 20630,
