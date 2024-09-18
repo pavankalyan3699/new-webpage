@@ -397,12 +397,21 @@
     "Bills": "https://drive.google.com/open?id=1OUmMT1ofUmXdpk9o0-eZmzxZOhqYD64C",
     "Paid By": "M Thirupathi"
 },
+{
+    "Timestamp": "9\/15\/2024 16:26:22",
+    "SI.No": 46,
+    "Date": "08\/09\/2024",
+    "Purpose": "Wire+Plugh",
+    "Amount": 110,
+    "Bills": "https://drive.google.com/open?id=1pypvxBwtEqjXVEM9JqyVxRKZ6JhTT1vU",
+    "Paid By": "M Thirupathi"
+},
  {
       "Timestamp": "09\/09\/2024 23:48",
       "SI.No": 40,
-      "Date": "15\/09\/2024",
-      "Purpose": "TOTAL  AMOUNT(1-35)",
-      "Amount": 20630,
+      "Date": "18\/09\/2024",
+      "Purpose": "TOTAL  AMOUNT(1-46)",
+      "Amount": 32105,
       "Paid By": "PAVAN",
       "Bills": "#"
     }
